@@ -16,4 +16,8 @@ publisher={IEEE}
 }
 ```
 
+# License
+This code is released under the MIT License.
+
+# Contact
 If you face any difficulty with the implementation, please refer to: zhuoyachen00@gmail.com
