@@ -1,5 +1,6 @@
 # MEGPE: Multi-Expert Genetic Programming based Ensemble for Long-Tailed Image Classification
 <img width="2754" height="1080" alt="image" src="https://github.com/user-attachments/assets/0dd76449-e90c-498c-a88f-39732d51fe92" />
+
 # Acknowledge
 Please kindly cite this paper in your publications if it helps your research:
 ```
@@ -11,4 +12,5 @@ year={2026},
 publisher={IEEE}
 }
 ```
+
 If you face any difficulty with the implementation, please refer to: zhuoyachen00@gmail.com
